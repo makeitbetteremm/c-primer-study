@@ -18,12 +18,84 @@
     <ClInclude Include="pch.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="Brass.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Cd.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Cow.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DMA.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Port.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="queue.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Stack.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Stock.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stonewt.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stringbad.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TableTennis.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="mytime.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="c++ primer study.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Brass.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Cd.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Cow.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DMA.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="mytime.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Port.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="queue.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Stack.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Stock.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stonewt.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stringbad.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="TableTennis.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

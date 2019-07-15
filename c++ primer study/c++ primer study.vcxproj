@@ -151,16 +151,40 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="Brass.h" />
+    <ClInclude Include="Cd.h" />
+    <ClInclude Include="Cow.h" />
+    <ClInclude Include="DMA.h" />
+    <ClInclude Include="mytime.h" />
     <ClInclude Include="pch.h" />
+    <ClInclude Include="Port.h" />
+    <ClInclude Include="queue.h" />
+    <ClInclude Include="Stack.h" />
+    <ClInclude Include="Stock.h" />
+    <ClInclude Include="stonewt.h" />
+    <ClInclude Include="stringbad.h" />
+    <ClInclude Include="TableTennis.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Brass.cpp" />
     <ClCompile Include="c++ primer study.cpp" />
+    <ClCompile Include="Cd.cpp" />
+    <ClCompile Include="Cow.cpp" />
+    <ClCompile Include="DMA.cpp" />
+    <ClCompile Include="mytime.cpp" />
     <ClCompile Include="pch.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
     </ClCompile>
+    <ClCompile Include="Port.cpp" />
+    <ClCompile Include="queue.cpp" />
+    <ClCompile Include="Stack.cpp" />
+    <ClCompile Include="Stock.cpp" />
+    <ClCompile Include="stonewt.cpp" />
+    <ClCompile Include="stringbad.cpp" />
+    <ClCompile Include="TableTennis.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
