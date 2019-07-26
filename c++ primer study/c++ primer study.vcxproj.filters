@@ -54,6 +54,30 @@
     <ClInclude Include="mytime.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="Student.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Worker.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stacktp.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="arraytp.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Wine.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="QueueTP.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Person.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="emp.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
@@ -96,6 +120,21 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="TableTennis.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Student.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Worker.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Wine.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Person.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="emp.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
