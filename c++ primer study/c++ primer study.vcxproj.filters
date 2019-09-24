@@ -78,6 +78,18 @@
     <ClInclude Include="emp.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="TV.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="QueueT.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="exc_mean.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sales.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
@@ -137,5 +149,16 @@
     <ClCompile Include="emp.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="TV.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sales.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="tobuy.txt">
+      <Filter>资源文件</Filter>
+    </Text>
   </ItemGroup>
 </Project>

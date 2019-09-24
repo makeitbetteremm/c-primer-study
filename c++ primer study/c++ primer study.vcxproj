@@ -157,12 +157,15 @@
     <ClInclude Include="Cow.h" />
     <ClInclude Include="DMA.h" />
     <ClInclude Include="emp.h" />
+    <ClInclude Include="exc_mean.h" />
     <ClInclude Include="mytime.h" />
     <ClInclude Include="pch.h" />
     <ClInclude Include="Person.h" />
     <ClInclude Include="Port.h" />
     <ClInclude Include="queue.h" />
+    <ClInclude Include="QueueT.h" />
     <ClInclude Include="QueueTP.h" />
+    <ClInclude Include="sales.h" />
     <ClInclude Include="Stack.h" />
     <ClInclude Include="stacktp.h" />
     <ClInclude Include="Stock.h" />
@@ -170,6 +173,7 @@
     <ClInclude Include="stringbad.h" />
     <ClInclude Include="Student.h" />
     <ClInclude Include="TableTennis.h" />
+    <ClInclude Include="TV.h" />
     <ClInclude Include="Wine.h" />
     <ClInclude Include="Worker.h" />
   </ItemGroup>
@@ -190,14 +194,19 @@
     <ClCompile Include="Person.cpp" />
     <ClCompile Include="Port.cpp" />
     <ClCompile Include="queue.cpp" />
+    <ClCompile Include="sales.cpp" />
     <ClCompile Include="Stack.cpp" />
     <ClCompile Include="Stock.cpp" />
     <ClCompile Include="stonewt.cpp" />
     <ClCompile Include="stringbad.cpp" />
     <ClCompile Include="Student.cpp" />
     <ClCompile Include="TableTennis.cpp" />
+    <ClCompile Include="TV.cpp" />
     <ClCompile Include="Wine.cpp" />
     <ClCompile Include="Worker.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="tobuy.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

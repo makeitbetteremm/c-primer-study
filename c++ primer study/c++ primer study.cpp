@@ -1,13 +1,12 @@
-﻿// c++ primer study.cpp : 此文件包含 "main" 函数。程序执行将在此处开始并结束。
-//
-#include "emp.h"
-#include <iostream>
-#include<string>
-#include<cstdlib>
+﻿#include <iostream>
+#include<list>
+#include<algorithm>
+
 using namespace std;
-int main()	
+const int LIM = 10;
+void Show(int v) { cout << v << " "; }
+int main()
 {
 	
 	return 0;
 }
-
